@@ -177,6 +177,8 @@ main ()
   
   http://architecture.di.uoa.gr/5plus4.2.html 
   
+  https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu
+  
   https://nitish2112.github.io/post/gem5-minor-cpu/
   
   https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types
